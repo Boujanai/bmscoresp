@@ -1,0 +1,10 @@
+---
+slug: :bmscoresp
+version: '1.0'
+author: Nakahara
+name: beatmania-score single play
+description: 投稿ボックスに書かれた内容をbeatmaniaの譜面に変換します.
+depends:
+  version: '1.0'
+  plugin: []
+repository: git://github.com/Boujanai/bmscoresp.git
